@@ -723,6 +723,7 @@ LANGUAGES = [
     ("nl", "Dutch"),
     ("pl", "Polish"),
     ("pt", "Portuguese"),
+    ("pt-PT", "Portuguese (Portugal)"),
     ("ar", "Arabic"),
     ("ro", "Romanian"),
     ("hi", "Hindi"),

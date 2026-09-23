@@ -174,6 +174,7 @@ export const LOCALE_DISPLAY_MAP = {
 	it: '🇮🇹 Italiano',
 	nl: '🇳🇱 Nederlands',
 	pt: '🇵🇹 Português',
+	'pt-PT': '🇵🇹 Português (Portugal)',
 	pl: '🇵🇱 Polski',
 	ro: '🇷🇴 Română',
 	ar: '🇸🇦 العربية',

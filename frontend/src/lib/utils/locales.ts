@@ -21,6 +21,10 @@ export const LOCALE_MAP = {
 		name: 'portuguese',
 		flag: '🇧🇷'
 	},
+	'pt-PT': {
+		name: 'europeanPortuguese',
+		flag: '🇵🇹'
+	},
 	es: {
 		name: 'spanish',
 		flag: '🇪🇸'
@@ -116,6 +120,7 @@ export const language: any = {
 	english: m.english(),
 	arabic: m.arabic(),
 	portuguese: m.portuguese(),
+	europeanPortuguese: m.europeanPortuguese(),
 	spanish: m.spanish(),
 	german: m.german(),
 	dutch: m.dutch(),
@@ -146,6 +151,7 @@ export const defaultLangLabels = {
 	en: 'English',
 	ar: 'العربية',
 	pt: 'Português',
+	'pt-PT': 'Português (Portugal)',
 	es: 'Español',
 	nl: 'Nederlands',
 	de: 'Deutsch',
